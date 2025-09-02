@@ -85,9 +85,14 @@
 📌 Designed a **retro-style fighting game** demonstrating Java graphics, collision detection, and event-driven architecture.  
 🔗 [View Repo](https://github.com/Real-Chuck-Keith-Chow/8-bit-Body-Slam)
 
+
 ---
 
 ## 🌎 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheuk-chow-677912326/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Real-Chuck-Keith-Chow)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=netlify&logoColor=white)](YOUR_PORTFOLIO_LINK)
+
+
+---
+

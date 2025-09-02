@@ -65,10 +65,12 @@
 
 ---
 
-### 🔹 Full-Stack Banking Experience Prototype *(For TD Labs)*
-**Tech:** React, Node.js, Express, MongoDB, JWT  
-📌 Built a **customer portal prototype** simulating transaction visualization, authentication, and smart insights powered by AI.  
-🔗 *(Coming Soon)*
+### 🔹 Vektor Lab — Gamified Physics Learning Platform 🌐
+**Tech:** React, Node.js, Express, MongoDB, Three.js *(or whichever libs you used)*  
+📌 Designed an **interactive, gamified web platform** that visualizes complex physics concepts using **real-time 3D animations**.  
+📌 Implements a **gamification system** with quizzes, levels, and user progress tracking.  
+📌 Showcases **full-stack engineering, modern UI/UX design, and scalable architecture** — aligned with TD Labs' innovation goals.  
+🔗 [Live Demo](https://YOUR_VEKTOR_LAB_URL) • [View Repo](https://github.com/Real-Chuck-Keith-Chow/vektor-lab)
 
 ---
 

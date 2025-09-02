@@ -11,7 +11,7 @@
 - 🔹 Passion for **Full-Stack Development**, **AI/ML**, **FPGA Design**, **Embedded Systems**, and **Game Development**
 - 🌐 Love exploring the intersection of **hardware + software**
 - 💼 Open to **SWE, Full-Stack, Embedded, AI, Game Dev, and Innovation roles**  
-- 📌 Building projects in **React, Node.js, C++, Verilog, Python, TensorFlow, and Arduino**
+- 📌 Building projects in **Java, React, Node.js, C++, Verilog, Python, TensorFlow, and Arduino**
 
 ---
 
@@ -55,14 +55,6 @@
 **Tech:** Verilog, Quartus, SystemVerilog  
 📌 Built a **custom RISC-V processor** with embedded fault detection to improve pipeline reliability.  
 🔗 [View Repo](https://github.com/Real-Chuck-Keith-Chow/RISC-V-Core-Optimization)
-
----
-
-### 🔹 Arthritis Massaging Glove *(IoT Project)*  
-**Tech:** Arduino, MOSFETs, PWM, Temp Sensors, Flexible PCB  
-📌 Designed a **smart glove** to relieve arthritis pain using vibration motors and temperature sensing.  
-🏆 **2nd place** at the National STEM Fellowship Competition  
-🔗 *(Upload Repo Soon)*
 
 ---
 

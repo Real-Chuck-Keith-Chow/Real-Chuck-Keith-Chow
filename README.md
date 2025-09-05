@@ -66,11 +66,11 @@
 ---
 
 ### 🔹 Vektor Lab — Gamified Physics Learning Platform 🌐
-**Tech:** React, Node.js, Express, MongoDB, Three.js *(or whichever libs you used)*  
+**Tech:** React, Node.js, Express, MongoDB, Three.js *(adjust if needed)*  
 📌 Designed an **interactive, gamified web platform** that visualizes complex physics concepts using **real-time 3D animations**.  
 📌 Implements a **gamification system** with quizzes, levels, and user progress tracking.  
 📌 Showcases **full-stack engineering, modern UI/UX design, and scalable architecture** — aligned with TD Labs' innovation goals.  
-🔗 **Live Demo:** [Click Here](https://vektor-ebln3oyps-cheuk-fung-keith-chows-projects.vercel.app/)   • [View Repo](https://github.com/Real-Chuck-Keith-Chow/vektor-lab)
+🔗 [Live Demo](https://vektor-lab.vercel.app/) • [View Repo](https://github.com/Real-Chuck-Keith-Chow/vektor-lab)
 
 ---
 
